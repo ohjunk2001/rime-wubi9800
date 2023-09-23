@@ -67,3 +67,4 @@ Mode                 LastWriteTime         Length Name
 - 颜文字功能
 - emoji 功能
 - 词库拓展
+- 更合理的词频
