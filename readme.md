@@ -58,9 +58,9 @@ Mode                 LastWriteTime         Length Name
 
 将 rime-config 下的四个文件复制到 rime 用户目录下即可
 
-# 后续
+# 后续完善
 
-还有很多可以完善的地方
+注意：这个方案并不成熟，还有很多可以完善的地方
 
 - 自定义短语功能
 - 手动造词功能
