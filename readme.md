@@ -39,6 +39,13 @@
 落花有意流水无情	aitawxdefujnnge
 工矿	aaadot
 ```
+
+## 词库
+
+收集了七万个词组
+具体参见 file 目录下的 lexicon.txt
+
+
 # 🛠️ rime 配置文件
 
 主要参考了这个 [rime](https://github.com/arzyu/rime-wubi98) 配置
