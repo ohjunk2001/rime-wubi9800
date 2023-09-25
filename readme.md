@@ -42,7 +42,7 @@
 
 ## 词库
 
-收集了七万个词组
+收集了约 19 万个词组
 具体参见 file 目录下的 lexicon.txt
 
 
@@ -53,17 +53,16 @@
 所有的配置文件在目录 rime-config 中
 
 ```
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----         2023/8/30     16:34        1266087 pinyin_simp.dict.yaml
--a----         2023/8/30     16:34           1840 pinyin_simp.schema.yaml
--a----         2023/9/23     22:44        1485310 wubi98000.dict.yaml
--a----         2023/9/23     22:44           1261 wubi98000.schema.yaml
+pinyin_simp.dict.yaml
+pinyin_simp.schema.yaml
+wubi98.dict.yaml
+wubi98.neo.dict.yaml
+wubi98.schema.yaml
 ```
 
 # 🚀 安装说明
 
-将 rime-config 下的四个文件复制到 rime 用户目录下即可
+将 rime-config 目录下的文件复制到 rime 用户目录下即可
 
 # 💡 后续完善
 
