@@ -1,11 +1,11 @@
 schema:
-  schema_id: wubi98000
-  name: "五笔98000"
+  schema_id: wubi98
+  name: "五笔980000"
   version: "0.1"
   author:
     - neo742
   description: |
-    基于 98 五笔的字型输入法
+    五笔字型98版
     按 z 键进入拼音反查
   dependencies:
     - pinyin_simp
@@ -48,7 +48,7 @@ speller:
   delimiter: " ;'"
 
 translator:
-  dictionary: wubi98000
+  dictionary: wubi98
   enable_charset_filter: true
   enable_encoder: true
   encode_commit_history: true
