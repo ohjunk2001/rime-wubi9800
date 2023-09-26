@@ -55,7 +55,7 @@ translator:
   enable_completion: true
   enable_sentence: true
   enable_user_dict: true
-  max_phrase_length: 12
+  max_phrase_length: 20
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^[a-y]{1,2}$"
