@@ -44,6 +44,7 @@
 
 收集了约 19 万条词组
 具体参见 file 目录下的 lexicon.txt
+如果需要更多的词库，可以参考我的这个项目 [lexicon](https://github.com/neo742/lexicon)
 
 
 # 🛠️ rime 配置文件
