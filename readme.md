@@ -43,9 +43,7 @@
 
 ## 📑 词库
 
-收集了约 19 万条词组
-
-具体参见 file 目录下的 lexicon.txt
+扩展了词库
 
 如果需要更多的词库，可以参考我的这个项目 [lexicon](https://github.com/neo742/lexicon)
 
@@ -61,6 +59,8 @@ pinyin_simp.dict.yaml
 pinyin_simp.schema.yaml
 wubi98.dict.yaml
 wubi98.neo.dict.yaml
+wubi98.long.dict.yaml
+wubi98.popular.dict.yaml
 wubi98.schema.yaml
 ```
 
