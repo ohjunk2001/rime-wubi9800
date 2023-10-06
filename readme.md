@@ -43,7 +43,13 @@
 
 ## 📑 词库
 
-扩展了词库
+方案收录的词汇，在下面三个文件中可以找到
+
+```
+wubi98.neo.dict.yaml
+wubi98.long.dict.yaml
+wubi98.popular.dict.yaml
+```
 
 如果需要更多的词库，可以参考我的这个项目 [lexicon](https://github.com/neo742/lexicon)
 
