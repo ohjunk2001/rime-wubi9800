@@ -1,11 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# A minimal Pinyin dictionary for simplified Chinese script
-#
-# Derived from android open source project:
-# http://android.git.kernel.org/?p=platform/packages/inputmethods/PinyinIME.git
-#
+
 
 ---
 name: pinyin_simp
